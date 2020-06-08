@@ -10,7 +10,7 @@ Selet your first quest:
 * [Exploring Board Games](boardgames.md) (1000 XP)
 * [What Makes The World Happy](happy.md) (1000 XP)
 * [Magnificant Music](music.md) (1000 XP)
-* [Supreme Super Heros](hero.md) (1000 XP)
+* [Supreme Super Heros](superheroes.md) (1000 XP)
 * [Lego Lovers](lego.md) (1000 XP)
 * [Expensive Avocadoes](Avocado.md) (1000 XP)
 * [Olympic Analysis](Olympics.md) (1000 XP)
