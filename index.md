@@ -7,7 +7,7 @@ To submit how far you make it through the maze, please fill out this form: <a hr
 **Scores will be finalized Friday, June 12 at 3:30 pm**
 
 Let the adventure begin: 
-* [The First LEVEL](Part1.md)
+* [The First LEVEL](part1.md)
 
 ### LIVE RESULTS (updated roughly every 5 minutes)
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSABs1JVTTg8JbCOBBjTgiqY2lKcqSKFaBHxG7nON6b377Biyf1AMu47zkuyOemIqtrQ7i-0KtZ_2p/pubhtml?gid=904580779&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height = "600"></iframe>
