@@ -17,9 +17,6 @@ Selet your first quest:
 * [Iphone Applications](Iphone.md) (1000 XP)
 
 ### LIVE RESULTS (updated roughly every 5 minutes)
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTSABs1JVTTg8JbCOBBjTgiqY2lKcqSKFaBHxG7nON6b377Biyf1AMu47zkuyOemIqtrQ7i-0KtZ_2p/pubhtml?gid=904580779&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height = "600"></iframe>
-
-
-
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR8navs3iONKydMuhkqLtK1l56-krIcs1_5F6PkLQqul0ojMiw6aMBVpDbjJsH1fjJAR3RXZUW3-j7U/pubhtml?gid=1362413214&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height = "600"></iframe>
  
 
