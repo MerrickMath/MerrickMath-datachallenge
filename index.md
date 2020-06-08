@@ -11,7 +11,7 @@ Selet your first quest:
 * [Magnificant Music](music.md) (1000 XP)
 * [Supreme Super Heros](superheroes.md) (1000 XP)
 * [Lego Lovers](lego.md) (1000 XP)
-* [Expensive Avocadoes](Avocado.md) (1000 XP)
+* [Expensive Avocadoes](avocado.md) (1000 XP)
 
 ### LIVE RESULTS (updated roughly every 5 minutes)
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR8navs3iONKydMuhkqLtK1l56-krIcs1_5F6PkLQqul0ojMiw6aMBVpDbjJsH1fjJAR3RXZUW3-j7U/pubhtml?gid=1362413214&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height = "600"></iframe>
