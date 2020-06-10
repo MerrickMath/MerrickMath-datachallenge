@@ -4,6 +4,9 @@ Welcome to the Statistics adventure Challenge. Your team has been assembled to t
 
 **Scores will be finalized Thursday, June 25 at 7pm**
 
+
+https://docs.google.com/forms/d/e/1FAIpQLSfobJTUcQow-C_AA9O-zXfYmyoZ4xsIsFTmb4TehrXPP2ArrA/viewform?usp=sf_link
+
 Selet your first quest: 
 * [Pokémon Trainer](pokemon.md) 
 * [Masterful Movie Critic](movies.md) 
