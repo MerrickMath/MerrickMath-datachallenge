@@ -6,12 +6,6 @@ Welcome to the Statistics adventure Challenge. Your team has been assembled to t
 
 Selet your first quest: 
 * [Pokémon Trainer](pokemon.md) 
-* Masterful Movie Critic (Coming Soon)
-* Exploring Board Games (Coming Soon) 
-* Magnificant Music (Coming Soon) 
-* Supreme Super Heros (Coming Soon)
-* Lego Lovers (Coming Soon) 
-* Expensive Avocadoes (Coming Soon)
 
 Anything data your interested in exploring? LET ME KNOW! 
 
