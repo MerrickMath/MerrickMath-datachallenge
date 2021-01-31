@@ -4,10 +4,10 @@ Welcome to the Statistics adventure Challenge. Your team has been assembled to t
 
 **Scores will be finalized Thursday, June 25 at 7pm**
 
-Selet your first quest: 
+The Adventure Begins: 
 * [Pokémon Trainer](pokemon.md) 
 
-Anything data your interested in exploring? LET ME KNOW! 
+What Data are you interested in exploring? LET ME KNOW! 
 
 ### LIVE RESULTS 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR8navs3iONKydMuhkqLtK1l56-krIcs1_5F6PkLQqul0ojMiw6aMBVpDbjJsH1fjJAR3RXZUW3-j7U/pubhtml?gid=1362413214&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height = "450"></iframe>
