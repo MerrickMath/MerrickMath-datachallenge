@@ -11,6 +11,8 @@ The Adventure Begins:
       </ul> 
 </p>
 
+You may submit your answers to each challenge using <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7chmcB67xwbOdJeWTTxn_9Odz6ZrlnaJUStq5QyHhCZmPFg/viewform?usp=sf_link"> this form</a>. The form will remain locked when class is not running. 
+
 What Data are you interested in exploring? LET ME KNOW! 
 
 ---
