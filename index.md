@@ -7,13 +7,11 @@ Welcome to the DATA CHALLENGE. Through this class your analytial skills will be 
 The Adventure Begins: 
 <p>
       <ul>
-        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge1.html"> The Road Mordor </a> </li>
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge1.html"> The Road Mordor (50 XP) </a> </li>
       </ul> 
 </p>
 
 What Data are you interested in exploring? LET ME KNOW! 
-
-### LIVE RESULTS 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR8navs3iONKydMuhkqLtK1l56-krIcs1_5F6PkLQqul0ojMiw6aMBVpDbjJsH1fjJAR3RXZUW3-j7U/pubhtml?gid=1362413214&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height = "450"></iframe>
+ 
  
 
