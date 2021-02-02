@@ -5,7 +5,7 @@ Welcome to the DATA CHALLENGE. Through this class your analytial skills will be 
 **Scores will be finalized Thursday, June 25 at 7pm**
 
 The Adventure Begins: 
-* [The Road to Mordor](Challenge1.md)
+* [The Road to Mordor](challenge1.md)
 
 What Data are you interested in exploring? LET ME KNOW! 
 
