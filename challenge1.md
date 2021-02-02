@@ -5,3 +5,4 @@ Frodo and Sam are attempting to carry the Ring of Power to Mordor to destroy, ri
 * Suppose the Nazgul were given a tip that Frodo and Sam were seen passing through Anfalas. What's is the probability they take the exact same path as the ring bearer from the Shire to Mordor? 
 
 
+<p align="center"> <img class="prof" src="https://merrickmath.github.io/MerrickMath.github.io-datachallenge/c1.jpg">   </p>
