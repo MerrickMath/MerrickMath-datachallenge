@@ -7,7 +7,7 @@ Welcome to the DATA CHALLENGE. Through this class your analytial skills will be 
 The Adventure Begins: 
 <p>
       <ul>
-        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge1.html"> A trip to Mordor </a> </li>
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge1.html"> The Road Mordor </a> </li>
       </ul> 
 </p>
 
