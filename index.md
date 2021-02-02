@@ -5,7 +5,11 @@ Welcome to the DATA CHALLENGE. Through this class your analytial skills will be 
 **Scores will be finalized Thursday, June 25 at 7pm**
 
 The Adventure Begins: 
-* [The Road to Mordor](challenge1.md)
+<p>
+      <ul>
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge1.html"> A trip to Mordor </a> </li>
+      </ul> 
+</p>
 
 What Data are you interested in exploring? LET ME KNOW! 
 
