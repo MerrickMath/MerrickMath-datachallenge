@@ -12,6 +12,14 @@ The Adventure Begins:
 </p>
 
 What Data are you interested in exploring? LET ME KNOW! 
- 
+
+---
+
+Training: 
+<p>
+      <ul>
+            <\li> Coming Soon <\li>
+      </ul> 
+</p>
  
 
