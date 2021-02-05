@@ -2,7 +2,7 @@
 
 Welcome to the DATA CHALLENGE. Through this class your analytial skills will be put to the test. Do you think you have what it takes? With each success you will gain **experience points** (XP).  
 
-Become a hero, using this form. Only appropriate names will be allowed. Please try to incorperate math statistics or data science to your name in some way. 
+Become a hero using this form. Only **appropriate** names will be allowed. Please try to incorperate **math statistics or data science** to your name in some way.
 
 **Scores will be finalized Thursday, June 25 at 7pm**
 
