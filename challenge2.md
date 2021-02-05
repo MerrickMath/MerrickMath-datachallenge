@@ -10,7 +10,7 @@ This challenge is meant to give you a **fun** introduction to exploratory data a
 * Data anaylsis should be compeleted using an R-Markdown notebook. 
 * You will earn XP based on your performance in class, and the quality of your report. 
 
-For this challenge you may work **alone**, or in **groups of 2-3**. LET THE GAMES BEGIN. 
+For this challenge you may work **alone**, or in **groups of 2-3**. LET THE GAMES BEGIN. To gain XP, your report must be shown to Mr. Merrick in class.  
 
 
 
