@@ -13,7 +13,7 @@ The Adventure Begins:
       </ul> 
 </p>
 
-Many of the challenges will require the use of R Studio. If you want to download this on your home computer use <a href="https://rstudio.com/products/rstudio/download/"> this link </a>. I encourage you to get your parents to help install the program at home, so that you can work ourstide of class easily. 
+Many of the challenges will require the use of R Studio. If you want to download this on your home computer use <a href="https://rstudio.com/products/rstudio/download/"> this link </a>. I encourage you to get your parents to help install the program at home so you can work outside of class **easily**. 
 
 What Data are you interested in exploring? LET ME KNOW! 
 
