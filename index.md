@@ -10,10 +10,11 @@ The Adventure Begins:
 <p>
       <ul>
         <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge1.html"> The Road Mordor (75 XP) </a> </li>
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge2.html"> Explorations in the Dataverse (? XP) </a> </li>
       </ul> 
 </p>
 
-Many of the challenges will require the use of R Studio. If you want to download this on your home computer use <a href="https://rstudio.com/products/rstudio/download/"> this link </a>. I encourage you to get your parents to help install the program at home so you can work outside of class **easily**. 
+Many of the challenges will require the use of R Studio. If you want to download this on your home computer use <a href="https://rstudio.com/products/rstudio/download/"> this link </a>. I encourage you to get your parents to help install the program at home so you can work outside of class. This is of course, optional. 
 
 What Data are you interested in exploring? LET ME KNOW! 
 
