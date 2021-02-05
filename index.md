@@ -1,6 +1,6 @@
 <div class="tenor-gif-embed" data-postid="15651459" data-share-method="host" data-width="100%" data-aspect-ratio="1.8721804511278197"><a href="https://tenor.com/view/iam-looking-for-someone-to-share-in-an-adventure-gandalf-ian-mc-kellen-lord-of-the-rings-gif-15651459">Iam Looking For Someone To Share In An Adventure Gandalf GIF</a> from <a href="https://tenor.com/search/iamlookingforsomeonetoshareinanadventure-gifs">Iamlookingforsomeonetoshareinanadventure GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-Welcome to the DATA CHALLENGE. Through this class your analytial skills will be put to the test. Do you think you have what it takes? With each success you will gain **experience points** (XP).  Challenges will be frequently added to *this page* so *keep your eyes out*.
+Welcome to the DATA CHALLENGE. Through this class your analytial skills will be put to the test. Do you think you have what it takes? With each success you will gain **experience points** (XP).  Challenges will be frequently added to *this page* so *keep your eyes out*. You may submit your answers using the google form located in each challenge. 
 
 **Scores will be finalized Thursday, June 25 at 7pm**
 
@@ -11,7 +11,7 @@ The Adventure Begins:
       </ul> 
 </p>
 
-You may submit your answers to each challenge using <a href="https://docs.google.com/forms/d/e/1FAIpQLSf7chmcB67xwbOdJeWTTxn_9Odz6ZrlnaJUStq5QyHhCZmPFg/viewform?usp=sf_link"> this form</a>. The form will remain locked when class is not running. 
+Many of the challenges will require the use of R Studio. If you want to download this on your home computer use <a href="https://rstudio.com/products/rstudio/download/"> this link </a>. 
 
 What Data are you interested in exploring? LET ME KNOW! 
 
