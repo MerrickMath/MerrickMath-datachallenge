@@ -13,7 +13,7 @@ The Adventure Begins:
 <p>
       <ul>
         <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge1.html"> The Road Mordor (75 XP) </a> </li>
-        <li> New Recurit - Complete Introduction to R on Datacamp AND pass in class assessment (200 XP). </li>   
+        <li> New Recurit - Complete Introduction to R on Datacamp AND pass the in-class assessment (200 XP). </li>   
         <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge2.html"> Explorations in the Dataverse (? XP) </a> </li>
       </ul> 
 </p>
