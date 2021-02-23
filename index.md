@@ -33,7 +33,7 @@ Training:
 Datasets: 
 <p>
       <ul>
-        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/heroes.csv"> Superheroes Data </a> </li>
+        <li><a href="https://github.com/MerrickMath/MerrickMath-datachallenge/raw/master/heroes.csv"> Superheroes Data </a> </li>
       </ul> 
 </p>
 
