@@ -15,7 +15,7 @@ The Adventure Begins:
         <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge1.html"> The Road Mordor (75 XP) </a> </li>
         <li> New Recurit (200 XP) </li>   
         <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge2.html"> Explorations in the Dataverse (? XP) </a> </li>
-        <li> February 22: The FIRST GROUP to (1) identify its members, (2) get computers and, (3) pose as statues imitating the avengers will gain 100 XP each. XP will only be awarded to groups that achieve this task with relative silence. </li>
+        <li> February 22: The FIRST GROUP to (1) identify its members, (2) get computers and, (3) pose as statues imitating the avengers will gain 50 XP each. XP will only be awarded to groups that achieve this task with relative silence. </li>
       </ul> 
 </p>
 
