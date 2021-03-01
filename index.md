@@ -27,7 +27,9 @@ What Data are you interested in exploring? LET ME KNOW!
 ---
 
 Training: 
-* Coming Soon
+* Making a Boxplot 
+* Making a Histogram 
+* Filtering Data 
 
 ---
 
