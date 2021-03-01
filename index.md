@@ -30,12 +30,7 @@ Training:
 
 ---
 
-Datasets: 
-<p>
-      <ul>
-        <li><a href="https://github.com/MerrickMath/MerrickMath-datachallenge/raw/master/heroes.csv"> Superheroes Data </a> </li>
-      </ul> 
-</p>
+Datasets: All Datasets can be found  <a href="https://drive.google.com/drive/folders/1lQuOh4jgyZ4GioinfvCYvqRxbOgDn6Be?usp=sharing"> Here </a>
 
 ___
 
