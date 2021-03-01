@@ -33,7 +33,7 @@ Training:
 
 ---
 
-**Datasets:** All Datasets for challenges can be found  <a href="https://drive.google.com/drive/folders/1lQuOh4jgyZ4GioinfvCYvqRxbOgDn6Be?usp=sharing"> Here </a>
+**Datasets:** All Datasets for challenges can be found  <a href="https://drive.google.com/drive/folders/1lQuOh4jgyZ4GioinfvCYvqRxbOgDn6Be?usp=sharing"> here </a>
 
 ___
 
