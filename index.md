@@ -16,6 +16,7 @@ The Adventure Begins:
         <li> New Recurit (200 XP) </li>   
         <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge2.html"> Explorations in the Dataverse (? XP) </a> </li>
         <li> February 22: The FIRST GROUP to (1) identify its members, (2) get computers and, (3) pose as statues imitating the avengers will gain 50 XP each. XP will only be awarded to groups that achieve this task with relative silence. </li>
+        <li> Become the Globglogabgalab: The first group to silently find their table and pose as the globglogabgalab gains 10 XP each. <\li>
       </ul> 
 </p>
 
