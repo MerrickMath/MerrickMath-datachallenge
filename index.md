@@ -17,7 +17,7 @@ The Adventure Begins:
         <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge2.html"> Explorations in the Dataverse (? XP) </a> </li>
         <li> Super Team (February 22): The FIRST GROUP to (1) identify its members, (2) get computers and, (3) pose as statues imitating the avengers will gain 50 XP each. XP will only be awarded to groups that achieve this task with relative silence. </li>
         <li> Become the Globglogabgalab (March 2): The first 5 people to silently find their table, computer, and pose as the globglogabgalab gains 10 XP each. </li>
-        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge3.html"> Mastering the Shwabble Dabble (? XP) </a> </li>
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge3.html"> Mastering the Shwabble Dabble (200 XP) </a> </li>
         <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge4.html"> Pokémon Legends (? XP) </a> </li>
       </ul> 
 </p>
