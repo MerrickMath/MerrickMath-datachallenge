@@ -10,5 +10,5 @@ For your analysis you will use the **youtube dataset**.
 * Next I would like to to examine the distribution for the ratio between views, and likes. 
 * Next I would like you to estimate the probability of someone choosing a video as popular as the Globglogabgalab at random from the pool of all youtube videos. Is it likely to have a video this popular?  
 
-You have **until the end of class on March 9** to complete this challenge. 
+This challenge must be completed by the end of class on **March 9**. Results must be shown to Mr. Merrick in class to gain XP. 
 
