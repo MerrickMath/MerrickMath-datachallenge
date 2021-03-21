@@ -14,11 +14,9 @@ The Adventure Begins:
       <ul>
         <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge1.html"> The Road Mordor (75 XP) </a> </li>
             <li> <b>New Recurit:</b> Complete Introduction to R, and take the in class test (200 XP) </li>   
-        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge2.html"> Explorations in the Dataverse (? XP) </a> </li>
-            <li> <b> Super Team (February 22): </b> The FIRST GROUP to (1) identify its members, (2) get computers and, (3) pose as statues imitating the avengers will gain 50 XP each. XP will only be awarded to groups that achieve this task with relative silence. </li>
-            <li> <b> Become the Globglogabgalab (March 2):</b> The first 5 people to silently find their table, computer, and pose as the globglogabgalab gains 10 XP each. </li>
-        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge3.html"> Mastering the Shwabble Dabble (200 XP) </a> </li>
-        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge4.html"> Pokémon Legends (? XP) </a> </li>
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge2.html"> Explorations in the Dataverse (? XP) CLOSES MARCH 23  </a> </li>
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge3.html"> Mastering the Shwabble Dabble (200 XP) CLOSES MARCH 23  </a> </li>
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge4.html"> Pokémon Legends (? XP)  CLOSES MARCH 30 </a> </li>
             <li> <b> R Lieutenant:</b> Complete Intermediate R, and take the in class test (200 XP) </li>
       </ul> 
 </p>
