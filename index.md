@@ -27,12 +27,6 @@ What Data are you interested in exploring? LET ME KNOW!
 
 ---
 
-Training: 
-* Making a Boxplot 
-* Making a Histogram 
-* Filtering Data 
-
----
 
 **Datasets:** All Datasets for challenges can be found  <a href="https://drive.google.com/drive/folders/1lQuOh4jgyZ4GioinfvCYvqRxbOgDn6Be?usp=sharing"> here </a>
 
