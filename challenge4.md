@@ -11,4 +11,4 @@ For this challenge we will be analysing the attributes of Pokemon. For your anal
 * Plot and describe 2 more distribtuions. 
 * Describe what the best Pokemon is based on the statistics on all different traits. 
 
-This challenge must be completed by the end of class on **March 16, 2021**. Results must be shown to Mr. Merrick in class to gain XP. 
+This challenge must be completed by the end of class on **March 30, 2021**. Results must be shown to Mr. Merrick in class to gain XP. 
