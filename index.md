@@ -12,12 +12,13 @@ Become a hero using <a href="https://docs.google.com/forms/d/e/1FAIpQLSd48_0q0hK
 The Adventure Begins: 
 <p>
       <ul>
-        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge1.html"> The Road Mordor (75 XP) </a> </li>
-            <li> <b>New Recurit:</b> Complete Introduction to R, and take the in class test (200 XP) </li>   
-        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge2.html"> Explorations in the Dataverse (? XP) CLOSES MARCH 23  </a> </li>
-        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge3.html"> Mastering the Shwabble Dabble (200 XP) CLOSES MARCH 23  </a> </li>
-        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge4.html"> Pokémon Legends (? XP)  CLOSES MARCH 30 </a> </li>
-            <li> <b> R Lieutenant:</b> Complete Intermediate R, and take the in class test (200 XP) </li>
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge1.html"> The Road Mordor (75 XP) CLOSED </a> </li>
+        <li> <b>New Recurit:</b> Complete Introduction to R, and take the in class test (200 XP) </li>   
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge2.html"> Explorations in the Dataverse (? XP) CLOSED  </a> </li>
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge3.html"> Mastering the Shwabble Dabble (200 XP) CLOSED  </a> </li>
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge4.html"> Pokémon Legends (? XP)  CLOSED </a> </li>
+        <li> <b> R Lieutenant:</b> Complete Intermediate R, and take the in class test (200 XP) </li>
+        <li> <a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge5.html"> Introducing Simulation (100 XP) </a> </li>
       </ul> 
 </p>
 
