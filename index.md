@@ -20,6 +20,9 @@ The Adventure Begins:
         <li> <b> R Lieutenant:</b> Complete Intermediate R, and take the in class test (200 XP) </li>
         <li> <a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge5.html"> Introducing Simulation (100 XP) </a> </li>
         <li> <b> Polished Report (100XP): </b> Using R Markdown, create a polished report of any visualization challenges we have done. XP will only rewarded for high quality reports </li>
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge6.html"> Your a Wizard Harry (100 XP) </a> </li>
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge7.html"> Serious Guac (100 XP) </a> </li>
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge8.html"> Stormtrooper Simulations (100 XP) </a> </li>
       </ul> 
 </p>
 
