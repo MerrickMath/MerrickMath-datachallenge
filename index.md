@@ -23,6 +23,7 @@ The Adventure Begins:
         <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge6.html"> Your a Wizard Harry (100 XP) </a> </li>
         <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge7.html"> Serious Guac (100 XP) </a> </li>
         <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge8.html"> Stormtrooper Simulations (100 XP) </a> </li>
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge9.html"> Nice Ride (100 XP) </a> </li>
       </ul> 
 </p>
 
