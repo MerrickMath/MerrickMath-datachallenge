@@ -26,6 +26,7 @@ The Adventure Begins:
         <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge9.html"> Nice Ride (100 XP) </a> </li>
         <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge11.html"> GGpro (100 XP) </a> </li>
         <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/challenge12.html"> The END GAME (? XP) </a> </li>    
+        <li><a href="https://MerrickMath.github.io/MerrickMath-datachallenge/ENDOFYEAR.html"> End of Year Survey </a> </li>
       </ul> 
 </p>
 
